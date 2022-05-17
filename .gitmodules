@@ -1,0 +1,6 @@
+[submodule "mercurius-accounts-be"]
+	path = mercurius-accounts-be
+	url = https://github.com/wlp2s0/mercurius-accounts-be.git
+[submodule "mercurius-accounts-fe"]
+	path = mercurius-accounts-fe
+	url = https://github.com/wlp2s0/mercurius-accounts-fe.git
